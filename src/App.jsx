@@ -9,36 +9,8 @@ import About from "./Routs/about";
 
 const App = () => {
   
-  const pop={
-    name :"Aravind",
-    Age : 20
-  }
- const obj=[
-  {
-    name : "Aravind",
-    age : 25,
-    gender :"Male"
-
-  },
-  {
-    name : "Abhi",
-    age : 24,
-    gender :"Male"
-    
-  },
-  {
-    name : "laya",
-    age : 15,
-    gender :"Female"
-    
-  },
-  {
-    name : "Aravind",
-    age : 25,
-    gender :"Male"
-    
-  }
- ]
+  
+ 
   return (                                                  
     <>
 
