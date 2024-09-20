@@ -14,7 +14,7 @@ const App = () => {
   return (                                                  
     <>
 
-    <BrowserRouter>
+    {/* <BrowserRouter> */}
        <Navbar/>  
        <Sidebars/>   
                                                        
@@ -27,7 +27,7 @@ const App = () => {
            <Route path="/component" element={<About/>}></Route>
            <Route path="/body" element={<Body/>}></Route>
         </Routes>
-    </BrowserRouter>
+    {/* </BrowserRouter> */}
     </>
   );
 };
